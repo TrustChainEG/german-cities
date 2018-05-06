@@ -1,0 +1,86 @@
+# List of german cities
+
+JSON file including a list of german cities.
+
+| Name |  State | 
+| --- |  --- | 
+| Aachen | Nordrhein-Westfalen | 
+| Augsburg | Bayern | 
+| Bergisch Gladbach | Nordrhein-Westfalen | 
+| Berlin | Berlin | 
+| Bielefeld | Nordrhein-Westfalen | 
+| Bochum | Nordrhein-Westfalen | 
+| Bonn | Nordrhein-Westfalen | 
+| Bottrop | Nordrhein-Westfalen | 
+| Braunschweig | Niedersachsen | 
+| Bremen | Bremen | 
+| Bremerhaven | Bremen | 
+| Chemnitz | Sachsen | 
+| Cottbus | Brandenburg | 
+| Darmstadt | Hessen | 
+| Dortmund | Nordrhein-Westfalen | 
+| Dresden | Sachsen | 
+| Duisburg | Nordrhein-Westfalen | 
+| Düsseldorf | Nordrhein-Westfalen | 
+| Erfurt | Thüringen | 
+| Erlangen | Bayern | 
+| Essen | Nordrhein-Westfalen | 
+| Frankfurt  am Main|Hessen | 
+| Freiburg  im Breisgau|Baden-Württemberg | 
+| Fürth | Bayern | 
+| Gelsenkirchen | Nordrhein-Westfalen | 
+| Göttingen | Niedersachsen | 
+| Hagen | Nordrhein-Westfalen | 
+| Halle  (Saale)|Sachsen-Anhalt | 
+| Hamburg | Hamburg | 
+| Hamm | Nordrhein-Westfalen | 
+| Hannover | Niedersachsen | 
+| Heidelberg | Baden-Württemberg | 
+| Heilbronn | Baden-Württemberg | 
+| Herne | Nordrhein-Westfalen | 
+| Hildesheim | Niedersachsen | 
+| Ingolstadt | Bayern | 
+| Jena | Thüringen | 
+| Karlsruhe | Baden-Württemberg | 
+| Kassel | Hessen | 
+| Kiel | Schleswig-Holstein | 
+| Koblenz | Rheinland-Pfalz | 
+| Krefeld | Nordrhein-Westfalen | 
+| Köln | Nordrhein-Westfalen | 
+| Leipzig | Sachsen | 
+| Leverkusen | Nordrhein-Westfalen | 
+| Ludwigshafen  am Rhein|Rheinland-Pfalz | 
+| Lübeck | Schleswig-Holstein | 
+| Magdeburg | Sachsen-Anhalt | 
+| Mainz | Rheinland-Pfalz | 
+| Mannheim | Baden-Württemberg | 
+| Moers | Nordrhein-Westfalen | 
+| Mönchengladbach | Nordrhein-Westfalen | 
+| Mülheim  an der Ruhr|Nordrhein-Westfalen | 
+| München | Bayern | 
+| Münster | Nordrhein-Westfalen | 
+| Neuss | Nordrhein-Westfalen | 
+| Nürnberg | Bayern | 
+| Oberhausen | Nordrhein-Westfalen | 
+| Offenbach am Main | Hessen | 
+| Oldenburg | Niedersachsen | 
+| Osnabrück | Niedersachsen | 
+| Paderborn | Nordrhein-Westfalen | 
+| Pforzheim | Baden-Württemberg | 
+| Potsdam | Brandenburg | 
+| Recklinghausen | Nordrhein-Westfalen | 
+| Regensburg | Bayern | 
+| Remscheid | Nordrhein-Westfalen | 
+| Reutlingen | Baden-Württemberg | 
+| Rostock | Mecklenburg-Vorpommern | 
+| Saarbrücken | Saarland | 
+| Salzgitter | Niedersachsen | 
+| Siegen | Nordrhein-Westfalen | 
+| Solingen | Nordrhein-Westfalen | 
+| Stuttgart | Baden-Württemberg | 
+| Trier | Rheinland-Pfalz | 
+| Ulm | Baden-Württemberg | 
+| Wiesbaden | Hessen | 
+| Wolfsburg | Niedersachsen | 
+| Wuppertal | Nordrhein-Westfalen | 
+| Würzburg | Bayern | 
